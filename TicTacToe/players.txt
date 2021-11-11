@@ -1,0 +1,4 @@
+ikram,6
+imran,2
+Bilal,2
+Noman,4
